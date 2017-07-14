@@ -6,6 +6,11 @@ App主要功能是语文助手，学生端可以进行词语听写，识别手�
 
 教师端可以发布听写的词语，创建教室。
 
+##主要技术
+客户端：Appcan引擎 + jQuery+科大讯飞接口
+后端 Express + Mysql
+
+##主要界面示意
 <img src="StudyAPP/img/1.png" width="200"/>
 <img src="StudyAPP/img/2.jpg" width="200"/>
 <img src="StudyAPP/img/4.jpg" width="200"/>
