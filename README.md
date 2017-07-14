@@ -6,11 +6,10 @@ App主要功能是语文助手，学生端可以进行词语听写，识别手�
 
 教师端可以发布听写的词语，创建教室。
 
-<img src="StudyAPP/img/1.png" width="300"/>
-<img src="StudyAPP/img/2.jpg" width="300"/>
-<img src="StudyAPP/img/3.jpg" width="300"/>
-<img src="StudyAPP/img/4.jpg" width="300"/>
-<img src="StudyAPP/img/5.jpg" width="300"/>
-<img src="StudyAPP/img/6.jpg" width="300"/>
-<img src="StudyAPP/img/7.jpg" width="300"/>
-<img src="StudyAPP/img/8.jpg" width="300"/>
+<img src="StudyAPP/img/1.png" width="200"/>
+<img src="StudyAPP/img/2.jpg" width="200"/>
+<img src="StudyAPP/img/4.jpg" width="200"/>
+<img src="StudyAPP/img/5.jpg" width="200"/>
+<img src="StudyAPP/img/6.jpg" width="200"/>
+<img src="StudyAPP/img/7.jpg" width="200"/>
+<img src="StudyAPP/img/8.jpg" width="200"/>
