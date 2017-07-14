@@ -6,4 +6,4 @@ App主要功能是语文助手，学生端可以进行词语听写，识别手�
 
 教师端可以发布听写的词语，创建教室。
 
-<img src="StudyAPP/img/1.png" width="100"/>
+<img src="StudyAPP/img/1.png" width="300"/>
